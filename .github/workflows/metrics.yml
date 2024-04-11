@@ -46,10 +46,10 @@ jobs:
           plugin_achievements_limit: 12
           plugin_achievements_ignored: follower, member, automator, infographile, stargazer
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_analysis_timeout: 180
+          plugin_languages_analysis_timeout_repositories: 180
           plugin_languages_categories: markup, programming
-          plugin_languages_ignored: tex, shaderlab, hlsl, swift
+          plugin_languages_ignored: tex, shaderlab, hlsl
           plugin_languages_colors: github
           plugin_languages_details: percentage
           plugin_languages_limit: 10
