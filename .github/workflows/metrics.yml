@@ -49,7 +49,7 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_categories: markup, programming
-          plugin_languages_ignored: tex, shaderlab, hlsl
+          plugin_languages_ignored: tex, shaderlab, hlsl, swift
           plugin_languages_colors: github
           plugin_languages_details: percentage
           plugin_languages_limit: 10
@@ -59,7 +59,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_indepth: true
-          plugin_languages_indepth_custom: 6210a/auton-help, 6210a/6210A.github.io
+          commits_authoring: chasegalloway, 6210a
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
