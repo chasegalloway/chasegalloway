@@ -42,8 +42,8 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_achievements: yes
           plugin_achievements_display: detailed
-          plugin_achievements_limit: 12
-          plugin_achievements_ignored: follower, member
+          plugin_achievements_limit: 50
+          plugin_achievements_ignored: follower, member, automator
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
