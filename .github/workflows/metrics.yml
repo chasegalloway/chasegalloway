@@ -27,7 +27,7 @@ jobs:
           # Options
           user: chasegalloway
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories, achmetadata
           config_timezone: America/Indianapolis
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -40,6 +40,9 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 12
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
