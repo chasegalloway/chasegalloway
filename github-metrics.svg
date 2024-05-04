@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">16M |                                                   Student @ HCS |                          
+                        <div class="introduction">Student @ HCS |                          
 Programmer of VRC 6210M</div>
                     </section>
                 </div>
@@ -83,7 +83,7 @@ Programmer of VRC 6210M</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            308 Commits
+                            309 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ Programmer of VRC 6210M</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.77m added, 73.5k removed
+                                    1.74m added, 44.7k removed
                                 </div>
                             </section>
                             <section>
@@ -239,14 +239,14 @@ Programmer of VRC 6210M</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.13479205854728" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="237.13479205854728" y="0" width="76.29901140759796" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="313.4338034661452" y="0" width="65.14737189066749" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="378.5811753568127" y="0" width="51.640458683082905" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="430.2216340398956" y="0" width="13.490952979283922" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.7125870191795" y="0" width="8.887567130851567" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="452.6001541500311" y="0" width="5.294235730589364" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.89438988062045" y="0" width="2.105610119379534" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.29559309196696" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="235.29559309196696" y="0" width="75.7072422213315" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="311.0028353132984" y="0" width="65.91692753352334" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="376.91976284682175" y="0" width="51.239939310032774" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="428.15970215685456" y="0" width="14.232436672675005" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.39213882952953" y="0" width="8.818635852819451" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="451.210774682349" y="0" width="5.253174050858586" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="456.4639487332076" y="0" width="3.5360512667924073" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -258,7 +258,7 @@ Programmer of VRC 6210M</div>
                                 C#
                             </div>
                             <small>
-                                <div>51.55%</div>
+                                <div>51.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +269,7 @@ Programmer of VRC 6210M</div>
                                 JavaScript
                             </div>
                             <small>
-                                <div>14.16%</div>
+                                <div>14.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -280,7 +280,7 @@ Programmer of VRC 6210M</div>
                                 HTML
                             </div>
                             <small>
-                                <div>2.93%</div>
+                                <div>3.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -291,7 +291,7 @@ Programmer of VRC 6210M</div>
                                 Makefile
                             </div>
                             <small>
-                                <div>1.15%</div>
+                                <div>1.14%</div>
                             </small>
                         </div>
                     </section>
@@ -304,7 +304,7 @@ Programmer of VRC 6210M</div>
                                 Python
                             </div>
                             <small>
-                                <div>16.59%</div>
+                                <div>16.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -315,7 +315,7 @@ Programmer of VRC 6210M</div>
                                 C++
                             </div>
                             <small>
-                                <div>11.23%</div>
+                                <div>11.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -326,18 +326,18 @@ Programmer of VRC 6210M</div>
                                 Swift
                             </div>
                             <small>
-                                <div>1.93%</div>
+                                <div>1.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C
+                                CSS
                             </div>
                             <small>
-                                <div>0.46%</div>
+                                <div>0.77%</div>
                             </small>
                         </div>
                     </section>
@@ -349,7 +349,7 @@ Programmer of VRC 6210M</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 2 commits)</small>
+                    <small class="h-details">(computed from last 3 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2646,7 +2646,7 @@ Programmer of VRC 6210M</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.49m out of 206m repositories</span>
+                                    <span class="gh">ranked 3.49m out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
